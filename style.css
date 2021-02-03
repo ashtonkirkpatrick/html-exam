@@ -1,0 +1,14 @@
+body {
+      background-color:rgb(15, 206, 240);
+}
+p {
+    color:rgb(131, 17, 146);
+    background-color:yellow;
+}
+h1 {
+    color:rgb(131, 17, 146);
+    background-color:black;
+}
+thead {
+    background-color:rgb(131, 17, 146);
+}
