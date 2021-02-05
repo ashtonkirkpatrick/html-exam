@@ -8,6 +8,7 @@ p {
 h1 {
     color:rgb(131, 17, 146);
     background-color:black;
+    text-align: center;
 }
 thead {
     background-color:rgb(131, 17, 146);
